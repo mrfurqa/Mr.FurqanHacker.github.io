@@ -826,7 +826,7 @@
               <i class="bx bx-menu sidebarOpen"></i>
   
               <div style="display: flex;"><img src="pic/IMG-20231104-WA0039.jpg" width="65px">
-              <span style="display: flex; margin-top: 15px; margin-left: 10px;" class="logo navLogo"><a href="http://127.0.0.1:5500/Hacker%201/new.html">Mr.FurqanHacker</a></span>
+              <span style="display: flex; margin-top: 15px; margin-left: 10px;" class="logo navLogo"><a href="https://mrfurqa.github.io/Mr.FurqanHacker.github.io/">Mr.FurqanHacker</a></span>
   </div>
               <div class="menu">
                   <div class="logo-toggle">
