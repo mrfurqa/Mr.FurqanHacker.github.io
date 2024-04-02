@@ -10,7 +10,7 @@
   <meta name="robots schedule" content="auto">
     <!------Description----->
     <meta name="description" content="WordWide Hackers Hidden Secret Database and  Tips Tricks Paid Tools Cheap in One Price LifeTime">
-    <meta name="author" content="DARK DATA, Abdul Samad">
+    <meta name="author" content="Mr.Furqan Hacker, Abdul Samad">
     <!-------KeyWords--------->
     <meta name="keywords" content="Hackers Chatting Room, Hackers Chatting Group, Anonymous Hackers, Anonymous Chatting, Hackers Help, Hacking Group, Hack Pack,">
   
