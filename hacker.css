@@ -1,0 +1,26 @@
+*{    margin: 0;
+        padding: 0;}
+body{    background: rgba(0, 0, 0, 0.904);
+           font-family: Calibri;}
+ .m{    width: 100%;   
+     height: fit-content;   
+      font-family: Calibri;}
+ .nav-mb{  display: flex;
+      position: fixed; 
+       width: 100%; 
+        top: 0px;  
+         background: rgba(0, 0, 0, 0.8); 
+          backdrop-filter: blur(10px);
+           box-shadow: 1px 1px 5px 1px rgb(90, 90, 90);}
+
+.nav-name-mb{  color: red;
+      padding: 15px;  
+      font-size: 25px; 
+       margin-left: -10px; 
+        margin-top: 5px; 
+         font-weight: 800;}
+        @media screen and (min-width: 600px) {
+  .nav-mb img {
+width: 5.5%;}
+
+
