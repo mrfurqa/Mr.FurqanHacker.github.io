@@ -462,7 +462,7 @@
   </section>
   </div>
   <div class="copyright">
-  Copyright © 2023 DarkData - All rights reserved 
+  Copyright © 2023 Mr.FurqanHacker - All rights reserved 
   </div>
   </footer><style type="text/css">
     *, *:after, *:before {
