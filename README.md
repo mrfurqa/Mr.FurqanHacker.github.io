@@ -305,10 +305,10 @@
   </script>
   </center>
   <br><br>
-  <center><a href="https://chat.whatsapp.com/sand/?phone=923093747808" target="_blank"><div style="font-size: 20px; color: white;"><i style="color: #0f0;" class="fa-brands fa-whatsapp" aria-hidden="true"></i> Whatsapp Group</div></a></center><br>
+  <center><a href="https://chat.whatsapp.com/sand/?phone=923346462635" target="_blank"><div style="font-size: 20px; color: white;"><i style="color: #0f0;" class="fa-brands fa-whatsapp" aria-hidden="true"></i> Whatsapp Group</div></a></center><br>
   <br>
   
-    <center><a href="https://chat.whatsapp.com/IcVHL9Mx4Oz4w5U94PZ6Yc" target="_blank"><img src="Screenshot 2024-03-29 145150.png" width="200px"></a></center><a href="https://api.whatsapp.com/send/?phone=923093747808" target="_blank">
+    <center><a href="https://chat.whatsapp.com/IcVHL9Mx4Oz4w5U94PZ6Yc" target="_blank"><img src="Screenshot 2024-03-29 145150.png" width="200px"></a></center><a href="https://api.whatsapp.com/send/?phone=923346462636" target="_blank">
   <br><br>
   <style type="text/css">
   .counter-up{
@@ -440,7 +440,7 @@
   
   
   <!-------------------FOOTER--------------------------->
-  </a><footer><a href="https://api.whatsapp.com/send/?phone=923093747808" target="_blank">
+  </a><footer><a href="https://api.whatsapp.com/send/?phone=923346462635" target="_blank">
   <div class="top_header">
   <section>
   <span><i class="fa fa-envelope" aria-hidden="true"></i></span>
@@ -449,10 +449,10 @@
   </div>
   <span class="border-shape"></span>
   </a><div class="bottom_content"><a href="https://api.whatsapp.com/send/?phone=923093747808" target="_blank">
-  </a><section><a href="https://api.whatsapp.com/send/?phone=923093747808" target="_blank">
+  </a><section><a href="https://api.whatsapp.com/send/?phone=923346462635" target="_blank">
   </a><a href="https://www.facebook.com/profile.php?id=100079952568148&amp;mibextid=ZbWKwL" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
   <a href="https://youtube.com/@Mr.Furqan-ql1hf?si=CnAR5vp74JbFxqdD404" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a>
-  <a href="https://api.whatsapp.com/send/?phone=923093747808" target="_blank"><i class="fa fa-whatsapp" aria-hidden="true"></i></a>
+  <a href="https://api.whatsapp.com/send/?phone=923346462635" target="_blank"><i class="fa fa-whatsapp" aria-hidden="true"></i></a>
   <!-- <a href="https://t.me/DarkDataOnline" target="_blank"><i class="fa fa-telegram" aria-hidden="true"></i></a> -->
   </section>
   <section>
